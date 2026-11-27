@@ -4,55 +4,63 @@
     "picture_id": "A",
     "file": "assets/vocab/greedy.png",
     "book_page": 55,
-    "note": "Man keeping the gold coins. Speech bubble kept. The printed word greedy was trimmed."
+    "includes_speech_bubble": true,
+    "note": "Official Station 1 crop. Speech bubble kept: I can keep the gold coins."
   },
   {
     "id": "cruel",
     "picture_id": "B",
     "file": "assets/vocab/cruel.png",
     "book_page": 55,
-    "note": "Driver whipping the animal that pulls the cart. The printed word cruel was trimmed."
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
   },
   {
     "id": "proud",
     "picture_id": "C",
     "file": "assets/vocab/proud.png",
     "book_page": 55,
-    "note": "Rabbit saying I'm better than you! The printed word proud was trimmed."
+    "includes_speech_bubble": true,
+    "note": "Official Station 1 crop. Speech bubble kept: I'm better than you!"
   },
   {
     "id": "selfish",
     "picture_id": "D",
     "file": "assets/vocab/selfish.png",
     "book_page": 55,
-    "note": "Book panel 4. The printed word selfish was trimmed."
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop. The tops of the printed word under the card were trimmed."
   },
   {
     "id": "dishonest",
     "picture_id": "E",
     "file": "assets/vocab/dishonest.png",
     "book_page": 55,
-    "note": "Child hiding the truth. The printed word dishonest was trimmed."
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
   },
   {
     "id": "wicked",
     "picture_id": "F",
     "file": "assets/vocab/wicked.png",
     "book_page": 55,
-    "note": "Witch frightening children. The printed word wicked and the number badge were trimmed."
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
   },
   {
     "id": "fierce",
     "picture_id": "G",
     "file": "assets/vocab/fierce.png",
     "book_page": 55,
-    "note": "Fire-breathing dragon. The printed word fierce was trimmed."
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
   },
   {
     "id": "timid",
     "picture_id": "H",
     "file": "assets/vocab/timid.png",
     "book_page": 55,
-    "note": "Boy backing away from a small dog. The printed word timid was trimmed."
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
   }
 ]
