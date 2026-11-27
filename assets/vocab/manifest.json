@@ -1,0 +1,66 @@
+[
+  {
+    "id": "greedy",
+    "picture_id": "A",
+    "file": "assets/vocab/greedy.png",
+    "book_page": 55,
+    "includes_speech_bubble": true,
+    "note": "Official Station 1 crop. Speech bubble kept: I can keep the gold coins."
+  },
+  {
+    "id": "cruel",
+    "picture_id": "B",
+    "file": "assets/vocab/cruel.png",
+    "book_page": 55,
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
+  },
+  {
+    "id": "proud",
+    "picture_id": "C",
+    "file": "assets/vocab/proud.png",
+    "book_page": 55,
+    "includes_speech_bubble": true,
+    "note": "Official Station 1 crop. Speech bubble kept: I'm better than you!"
+  },
+  {
+    "id": "selfish",
+    "picture_id": "D",
+    "file": "assets/vocab/selfish.png",
+    "book_page": 55,
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop. The tops of the printed word under the card were trimmed."
+  },
+  {
+    "id": "dishonest",
+    "picture_id": "E",
+    "file": "assets/vocab/dishonest.png",
+    "book_page": 55,
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
+  },
+  {
+    "id": "wicked",
+    "picture_id": "F",
+    "file": "assets/vocab/wicked.png",
+    "book_page": 55,
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
+  },
+  {
+    "id": "fierce",
+    "picture_id": "G",
+    "file": "assets/vocab/fierce.png",
+    "book_page": 55,
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
+  },
+  {
+    "id": "timid",
+    "picture_id": "H",
+    "file": "assets/vocab/timid.png",
+    "book_page": 55,
+    "includes_speech_bubble": false,
+    "note": "Official Station 1 crop."
+  }
+]

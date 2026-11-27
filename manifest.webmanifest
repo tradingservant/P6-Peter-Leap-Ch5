@@ -1,0 +1,25 @@
+{
+  "name": "Peter · Reading & Writing Ch5",
+  "short_name": "Peter Ch5",
+  "description": "A Primary 6 game about books we love, character adjectives, who, which, if I were, and a book report.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#c45c26",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
