@@ -1,0 +1,58 @@
+[
+  {
+    "id": "greedy",
+    "picture_id": "A",
+    "file": "assets/vocab/greedy.png",
+    "book_page": 55,
+    "note": "Man keeping the gold coins. Speech bubble kept. The printed word greedy was trimmed."
+  },
+  {
+    "id": "cruel",
+    "picture_id": "B",
+    "file": "assets/vocab/cruel.png",
+    "book_page": 55,
+    "note": "Driver whipping the animal that pulls the cart. The printed word cruel was trimmed."
+  },
+  {
+    "id": "proud",
+    "picture_id": "C",
+    "file": "assets/vocab/proud.png",
+    "book_page": 55,
+    "note": "Rabbit saying I'm better than you! The printed word proud was trimmed."
+  },
+  {
+    "id": "selfish",
+    "picture_id": "D",
+    "file": "assets/vocab/selfish.png",
+    "book_page": 55,
+    "note": "Book panel 4. The printed word selfish was trimmed."
+  },
+  {
+    "id": "dishonest",
+    "picture_id": "E",
+    "file": "assets/vocab/dishonest.png",
+    "book_page": 55,
+    "note": "Child hiding the truth. The printed word dishonest was trimmed."
+  },
+  {
+    "id": "wicked",
+    "picture_id": "F",
+    "file": "assets/vocab/wicked.png",
+    "book_page": 55,
+    "note": "Witch frightening children. The printed word wicked and the number badge were trimmed."
+  },
+  {
+    "id": "fierce",
+    "picture_id": "G",
+    "file": "assets/vocab/fierce.png",
+    "book_page": 55,
+    "note": "Fire-breathing dragon. The printed word fierce was trimmed."
+  },
+  {
+    "id": "timid",
+    "picture_id": "H",
+    "file": "assets/vocab/timid.png",
+    "book_page": 55,
+    "note": "Boy backing away from a small dog. The printed word timid was trimmed."
+  }
+]
